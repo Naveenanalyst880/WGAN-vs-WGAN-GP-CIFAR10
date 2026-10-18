@@ -1,0 +1,3 @@
+Method,Dataset,Epochs completed,Final critic loss,Final generator loss,Approximate FID
+WGAN with weight clipping,"CIFAR-10 training set (50,000 images)",3,-22.81783314093127,16.596017602005933,222.05047101137708
+WGAN-GP,"CIFAR-10 training set (50,000 images)",3,-4.073641568231522,-13.343049620353304,197.23030576212363

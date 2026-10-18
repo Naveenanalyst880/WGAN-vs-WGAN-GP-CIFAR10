@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+matplotlib
+scipy
+pandas
+Pillow
+python-docx
+python-pptx
